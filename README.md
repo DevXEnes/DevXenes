@@ -14,5 +14,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-232F3E?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-2C3E50?style=for-the-badge&logo=python&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-0069FF?style=for-the-badge&logo=wifi&logoColor=white)
-![MicroPython](https://img.shields.io/badge/MicroPython-2C3E50?style=for-the-badge&logo=python&logoColor=white)
+![ESP8266](https://img.shields.io/badge/microprocessors-0069FF?style=for-the-badge&logo=wifi&logoColor=white)
