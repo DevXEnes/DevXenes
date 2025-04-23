@@ -10,6 +10,5 @@
 ![ESP32](https://img.shields.io/badge/ESP32/8266-FF8300?style=for-the-badge&logo=espressif&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-2C3E50?style=for-the-badge&logo=python&logoColor=white)
 ![nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
-![sqlmap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=databricks&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
